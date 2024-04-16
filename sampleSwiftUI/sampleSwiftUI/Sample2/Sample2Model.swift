@@ -12,6 +12,10 @@ struct Sample2Model: Hashable, Codable, Identifiable {
     var id: String
     var real_name: String
     var profile: Sample2ProfileModel
+    
+    static func ==(lhs: Sample2Model, rhs: Sample2Model) -> Bool {
+        return lhs.id == rhs.id
+    }
 }
 
 struct Sample2ProfileModel: Hashable, Codable {
