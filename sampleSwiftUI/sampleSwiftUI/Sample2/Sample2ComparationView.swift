@@ -15,25 +15,24 @@ struct Sample2ComparationView: View {
     var body: some View {
         VStack {
             let a = calculator()
+            Text("Deactive account")
             List(a.deactiveUser) { it in
-                Section(header: Text("Deactive account")) {
-                    NavigationLink(destination: {
-                        Sample2ContentDetail(data: it)
-                    }, label: {
-                        Sample2RowItem(data: it)
-                    })
-                }
-            }.background(Color.gray)
+                NavigationLink(destination: {
+                    let _ = print("ahihi")
+                    Sample2ContentDetail(data: it)
+                }, label: {
+                    Sample2RowItem(data: it)
+                })
+            }
             
+            Text("New commer account")
             List(a.newCommer) { it in
-                Section(header: Text("New commer account")) {
-                    NavigationLink(destination: {
-                        Sample2ContentDetail(data: it)
-                    }, label: {
-                        Sample2RowItem(data: it)
-                    })
-                }
-            }.background(Color.gray)
+                NavigationLink(destination: {
+                    Sample2ContentDetail(data: it)
+                }, label: {
+                    Sample2RowItem(data: it)
+                })
+            }
         }
     }
     

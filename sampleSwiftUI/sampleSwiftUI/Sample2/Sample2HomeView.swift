@@ -14,7 +14,7 @@ struct Sample2HomeView: View {
         NavigationView {
             List(searchResults) { it in
                 NavigationLink(destination: {
-                    
+                    Sample2ContentDetail(data: it)
                 }, label: {
                     Sample2RowItem(data: it)
                 })
