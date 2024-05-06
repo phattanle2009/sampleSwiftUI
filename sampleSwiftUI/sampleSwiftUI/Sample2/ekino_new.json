@@ -85,7 +85,7 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714036471,
+        "updated": 1714642518,
         "is_email_confirmed": true,
         "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
@@ -133,7 +133,8 @@
         "is_app_user": false,
         "updated": 1713177289,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "U03781J9T8R",
@@ -176,7 +177,7 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714036481,
+        "updated": 1714642698,
         "is_email_confirmed": true,
         "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
@@ -191,6 +192,16 @@
         "tz": "Europe/Brussels",
         "tz_label": "Central European Summer Time",
         "tz_offset": 7200,
+        "is_admin": false,
+        "is_owner": false,
+        "is_primary_owner": false,
+        "is_restricted": false,
+        "is_ultra_restricted": false,
+        "is_bot": false,
+        "is_app_user": false,
+        "is_email_confirmed": true,
+        "who_can_share_contact_card": "EVERYONE",
+        "updated": 1714975261,
         "profile": {
             "title": "Senior Front Engineer",
             "phone": "",
@@ -199,17 +210,7 @@
             "real_name_normalized": "Bilal Sakah",
             "display_name": "Bil",
             "display_name_normalized": "Bil",
-            "fields": null,
-            "status_text": "",
-            "status_emoji": ":crescent_moon:",
-            "status_emoji_display_info": [
-                {
-                    "emoji_name": "crescent_moon",
-                    "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-large/1f319.png",
-                    "unicode": "1f319"
-                }
-            ],
-            "status_expiration": 0,
+            "fields": {},
             "avatar_hash": "d8af750068ec",
             "start_date": "2022-01-03",
             "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-02-20/6670039739683_d8af750068ece9b2a690_original.png",
@@ -219,19 +220,20 @@
             "huddle_state_expiration_ts": 0,
             "first_name": "Bilal",
             "last_name": "Sakah",
-            "status_text_canonical": "",
-            "team": "T026JHDL4"
+            "team": "T026JHDL4",
+            "status_expiration": 0,
+            "status_emoji": ":grey_question:",
+            "status_text": "Undeclared",
+            "status_emoji_display_info": [
+                {
+                    "emoji_name": "grey_question",
+                    "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-large/2754.png",
+                    "unicode": "2754"
+                }
+            ],
+            "status_text_canonical": ""
         },
-        "is_admin": false,
-        "is_owner": false,
-        "is_primary_owner": false,
-        "is_restricted": false,
-        "is_ultra_restricted": false,
-        "is_bot": false,
-        "is_app_user": false,
-        "updated": 1714579244,
-        "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "presence": "active"
     },
     {
         "id": "U022L7N3546",
@@ -251,13 +253,13 @@
             "real_name_normalized": "chi-hao.lam",
             "display_name": "Hao Lam",
             "display_name_normalized": "Hao Lam",
-            "fields": null,
+            "fields": {},
             "status_text": "",
             "status_emoji": "",
             "status_emoji_display_info": [],
             "status_expiration": 0,
-            "avatar_hash": "346276a95042",
-            "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-04-19/6977210812663_346276a950428cd05d91_original.png",
+            "avatar_hash": "05ffc6fff22d",
+            "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-05-06/7057569505591_05ffc6fff22dce481f80_original.png",
             "is_custom_image": true,
             "email": "chi-hao.lam@ekino.com",
             "huddle_state": "default_unset",
@@ -274,7 +276,7 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1713538453,
+        "updated": 1714988823,
         "is_email_confirmed": true,
         "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
@@ -364,7 +366,7 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714119486,
+        "updated": 1714729034,
         "is_email_confirmed": true,
         "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
@@ -410,9 +412,10 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714376699,
+        "updated": 1714644014,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "U037LU3GAGH",
@@ -614,16 +617,10 @@
             "display_name": "Hai Yen Nguyen",
             "display_name_normalized": "Hai Yen Nguyen",
             "fields": null,
-            "status_text": "Vacationing",
-            "status_emoji": ":palm_tree:",
-            "status_emoji_display_info": [
-                {
-                    "emoji_name": "palm_tree",
-                    "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-large/1f334.png",
-                    "unicode": "1f334"
-                }
-            ],
-            "status_expiration": 1714653000,
+            "status_text": "",
+            "status_emoji": "",
+            "status_emoji_display_info": [],
+            "status_expiration": 0,
             "avatar_hash": "0314301f3714",
             "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2023-02-01/4729978271411_0314301f371496caaffb_original.jpg",
             "is_custom_image": true,
@@ -632,7 +629,7 @@
             "huddle_state_expiration_ts": 0,
             "first_name": "Hai",
             "last_name": "Yen Nguyen ",
-            "status_text_canonical": "Vacationing",
+            "status_text_canonical": "",
             "team": "T026JHDL4"
         },
         "is_admin": false,
@@ -642,9 +639,10 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714134084,
+        "updated": 1714652948,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "UEVGYJN5T",
@@ -689,7 +687,8 @@
         "is_app_user": false,
         "updated": 1672903530,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "U9HNU7WAK",
@@ -730,7 +729,8 @@
         "is_app_user": false,
         "updated": 1708419669,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "U03LG1T9NFQ",
@@ -742,16 +742,6 @@
         "tz": "Asia/Bangkok",
         "tz_label": "Indochina Time",
         "tz_offset": 25200,
-        "is_admin": false,
-        "is_owner": false,
-        "is_primary_owner": false,
-        "is_restricted": false,
-        "is_ultra_restricted": false,
-        "is_bot": false,
-        "is_app_user": false,
-        "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE",
-        "updated": 1714615795,
         "profile": {
             "title": "Front End Developer",
             "phone": "",
@@ -761,6 +751,10 @@
             "display_name": "Thanh",
             "display_name_normalized": "Thanh",
             "fields": null,
+            "status_text": "",
+            "status_emoji": "",
+            "status_emoji_display_info": [],
+            "status_expiration": 0,
             "avatar_hash": "3f5732104735",
             "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-05-01/7037044301015_3f5732104735597ae63a_original.jpg",
             "is_custom_image": true,
@@ -769,13 +763,19 @@
             "huddle_state_expiration_ts": 0,
             "first_name": "Hou00e0i",
             "last_name": "Thanh Phu1ea1m Tru01b0u01a1ng",
-            "team": "T026JHDL4",
-            "status_emoji": "",
-            "status_text": "",
-            "status_emoji_display_info": [],
             "status_text_canonical": "",
-            "status_expiration": 0
+            "team": "T026JHDL4"
         },
+        "is_admin": false,
+        "is_owner": false,
+        "is_primary_owner": false,
+        "is_restricted": false,
+        "is_ultra_restricted": false,
+        "is_bot": false,
+        "is_app_user": false,
+        "updated": 1714644368,
+        "is_email_confirmed": true,
+        "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
     },
     {
@@ -885,13 +885,13 @@
             "real_name_normalized": "Hoang Quan Ho",
             "display_name": "Hoang Quan Ho",
             "display_name_normalized": "Hoang Quan Ho",
-            "fields": null,
+            "fields": {},
             "status_text": "",
             "status_emoji": "",
             "status_emoji_display_info": [],
             "status_expiration": 0,
-            "avatar_hash": "f3ea7eb82fc4",
-            "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-01-03/6428548257089_f3ea7eb82fc4a986f0cd_original.jpg",
+            "avatar_hash": "c4a234c1df30",
+            "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-05-06/7084170549185_c4a234c1df308d4dd6b5_original.jpg",
             "is_custom_image": true,
             "email": "hoangquan.ho@ekino.com",
             "huddle_state": "default_unset",
@@ -908,9 +908,10 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1710489701,
+        "updated": 1714978861,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "U063BQYTY1G",
@@ -1041,7 +1042,7 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714039211,
+        "updated": 1714644367,
         "is_email_confirmed": true,
         "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
@@ -1135,7 +1136,8 @@
         "is_app_user": false,
         "updated": 1713261069,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "UC7DL4TKP",
@@ -1180,7 +1182,8 @@
         "is_app_user": false,
         "updated": 1712917461,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "U01HBQZJC1H",
@@ -1557,6 +1560,16 @@
         "tz": "Asia/Bangkok",
         "tz_label": "Indochina Time",
         "tz_offset": 25200,
+        "is_admin": false,
+        "is_owner": false,
+        "is_primary_owner": false,
+        "is_restricted": false,
+        "is_ultra_restricted": false,
+        "is_bot": false,
+        "is_app_user": false,
+        "is_email_confirmed": true,
+        "who_can_share_contact_card": "EVERYONE",
+        "updated": 1714961833,
         "profile": {
             "title": "Project Manager",
             "phone": "0903658612",
@@ -1566,10 +1579,6 @@
             "display_name": "Lam Thao Yen",
             "display_name_normalized": "Lam Thao Yen",
             "fields": null,
-            "status_text": "",
-            "status_emoji": "",
-            "status_emoji_display_info": [],
-            "status_expiration": 1713805199,
             "avatar_hash": "39cff2a3283f",
             "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-04-08/6926296690242_39cff2a3283fdd3e6037_original.png",
             "is_custom_image": true,
@@ -1578,19 +1587,19 @@
             "huddle_state_expiration_ts": 0,
             "first_name": "Lam",
             "last_name": "Thao Yen",
-            "status_text_canonical": "",
-            "team": "T026JHDL4"
+            "team": "T026JHDL4",
+            "status_emoji": ":face_with_thermometer:",
+            "status_text": "Out sick",
+            "status_emoji_display_info": [
+                {
+                    "emoji_name": "face_with_thermometer",
+                    "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-large/1f912.png",
+                    "unicode": "1f912"
+                }
+            ],
+            "status_text_canonical": "Out sick",
+            "status_expiration": 1715014799
         },
-        "is_admin": false,
-        "is_owner": false,
-        "is_primary_owner": false,
-        "is_restricted": false,
-        "is_ultra_restricted": false,
-        "is_bot": false,
-        "is_app_user": false,
-        "updated": 1714024826,
-        "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
     },
     {
@@ -1866,8 +1875,7 @@
         "is_app_user": false,
         "updated": 1712909748,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE",
-        "presence": "active"
+        "who_can_share_contact_card": "EVERYONE"
     },
     {
         "id": "U9EMK1XC4",
@@ -1910,7 +1918,7 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714571948,
+        "updated": 1714729034,
         "is_email_confirmed": true,
         "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
@@ -2024,13 +2032,13 @@
             "display_name": "Minh Tru01b0u1eddng",
             "display_name_normalized": "Minh Tru01b0u1eddng",
             "fields": null,
-            "status_text": "Working remotely",
-            "status_emoji": ":house_with_garden:",
+            "status_text": "",
+            "status_emoji": ":fox_face:",
             "status_emoji_display_info": [
                 {
-                    "emoji_name": "house_with_garden",
-                    "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-large/1f3e1.png",
-                    "unicode": "1f3e1"
+                    "emoji_name": "fox_face",
+                    "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-large/1f98a.png",
+                    "unicode": "1f98a"
                 }
             ],
             "status_expiration": 0,
@@ -2042,7 +2050,7 @@
             "huddle_state_expiration_ts": 0,
             "first_name": "Minh",
             "last_name": "Truong Trieu",
-            "status_text_canonical": "Working remotely",
+            "status_text_canonical": "",
             "team": "T026JHDL4"
         },
         "is_admin": false,
@@ -2052,7 +2060,7 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714031283,
+        "updated": 1714701700,
         "is_email_confirmed": true,
         "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
@@ -2080,8 +2088,8 @@
             "status_emoji": "",
             "status_emoji_display_info": [],
             "status_expiration": 0,
-            "avatar_hash": "8236a2d37613",
-            "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-02-02/6560021689351_8236a2d37613cc6afe99_original.jpg",
+            "avatar_hash": "912713092797",
+            "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-05-03/7062801218354_912713092797d4eb26b7_original.png",
             "is_custom_image": true,
             "email": "minhvu.to@ekino.com",
             "huddle_state": "default_unset",
@@ -2098,7 +2106,7 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1711689068,
+        "updated": 1714724154,
         "is_email_confirmed": true,
         "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
@@ -2472,8 +2480,7 @@
         "is_app_user": false,
         "updated": 1712034983,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE",
-        "presence": "active"
+        "who_can_share_contact_card": "EVERYONE"
     },
     {
         "id": "U037Y4AKVBJ",
@@ -2676,10 +2683,16 @@
             "display_name": "Phu00fac Huy",
             "display_name_normalized": "Phuc Huy",
             "fields": null,
-            "status_text": "",
-            "status_emoji": "",
-            "status_emoji_display_info": [],
-            "status_expiration": 0,
+            "status_text": "Vacationing",
+            "status_emoji": ":palm_tree:",
+            "status_emoji_display_info": [
+                {
+                    "emoji_name": "palm_tree",
+                    "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-large/1f334.png",
+                    "unicode": "1f334"
+                }
+            ],
+            "status_expiration": 1715013000,
             "avatar_hash": "8274d163b1ce",
             "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-02-21/6668675484854_8274d163b1ceb439fe6b_original.jpg",
             "is_custom_image": true,
@@ -2688,7 +2701,7 @@
             "huddle_state_expiration_ts": 0,
             "first_name": "Phu00fac",
             "last_name": "Huy",
-            "status_text_canonical": "",
+            "status_text_canonical": "Vacationing",
             "team": "T026JHDL4"
         },
         "is_admin": false,
@@ -2698,10 +2711,9 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714100789,
+        "updated": 1714915198,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE",
-        "presence": "active"
+        "who_can_share_contact_card": "EVERYONE"
     },
     {
         "id": "U03HXR2MFPZ",
@@ -2998,7 +3010,7 @@
         "is_app_user": false,
         "is_email_confirmed": true,
         "who_can_share_contact_card": "EVERYONE",
-        "updated": 1714617846,
+        "updated": 1714989601,
         "profile": {
             "title": "Project Manager",
             "phone": "+84 91 854 7899",
@@ -3017,11 +3029,17 @@
             "first_name": "Tam",
             "last_name": "Thanh Nguyen",
             "team": "T026JHDL4",
-            "status_emoji": "",
-            "status_text": "",
-            "status_emoji_display_info": [],
+            "status_emoji_display_info": [
+                {
+                    "emoji_name": "spiral_calendar_pad",
+                    "display_url": "https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-large/1f5d3-fe0f.png",
+                    "unicode": "1f5d3-fe0f"
+                }
+            ],
             "status_text_canonical": "",
-            "status_expiration": 0
+            "status_expiration": 1714991400,
+            "status_emoji": ":spiral_calendar_pad:",
+            "status_text": "In a meeting u2022 Outlook Calendar"
         },
         "presence": "active"
     },
@@ -3211,8 +3229,7 @@
         "is_app_user": false,
         "updated": 1713859961,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE",
-        "presence": "active"
+        "who_can_share_contact_card": "EVERYONE"
     },
     {
         "id": "UPM7GCMNV",
@@ -3224,16 +3241,6 @@
         "tz": "Asia/Bangkok",
         "tz_label": "Indochina Time",
         "tz_offset": 25200,
-        "is_admin": false,
-        "is_owner": false,
-        "is_primary_owner": false,
-        "is_restricted": false,
-        "is_ultra_restricted": false,
-        "is_bot": false,
-        "is_app_user": false,
-        "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE",
-        "updated": 1714617976,
         "profile": {
             "title": "Quality Control",
             "phone": "+84 914 214 564",
@@ -3243,6 +3250,19 @@
             "display_name": "nguyen.ta",
             "display_name_normalized": "nguyen.ta",
             "fields": null,
+            "status_text": ":pep-mua:",
+            "status_emoji": ":pep-think:",
+            "status_emoji_display_info": [
+                {
+                    "emoji_name": "pep-mua",
+                    "display_url": "https://emoji.slack-edge.com/T026JHDL4/pep-mua/6b1d0108efac5fc9.gif"
+                },
+                {
+                    "emoji_name": "pep-think",
+                    "display_url": "https://emoji.slack-edge.com/T026JHDL4/pep-think/83845b862fff6e04.png"
+                }
+            ],
+            "status_expiration": 0,
             "avatar_hash": "b0e5d1161d6d",
             "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-02-22/6675321904982_b0e5d1161d6d2c049ceb_original.png",
             "is_custom_image": true,
@@ -3251,18 +3271,19 @@
             "huddle_state_expiration_ts": 0,
             "first_name": "thanh-nguyen.u200bta",
             "last_name": "",
-            "team": "T026JHDL4",
-            "status_emoji_display_info": [
-                {
-                    "emoji_name": "pep-think",
-                    "display_url": "https://emoji.slack-edge.com/T026JHDL4/pep-think/83845b862fff6e04.png"
-                }
-            ],
             "status_text_canonical": "",
-            "status_expiration": 0,
-            "status_emoji": ":pep-think:",
-            "status_text": ""
+            "team": "T026JHDL4"
         },
+        "is_admin": false,
+        "is_owner": false,
+        "is_primary_owner": false,
+        "is_restricted": false,
+        "is_ultra_restricted": false,
+        "is_bot": false,
+        "is_app_user": false,
+        "updated": 1714719831,
+        "is_email_confirmed": true,
+        "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
     },
     {
@@ -3451,7 +3472,8 @@
         "is_app_user": false,
         "updated": 1697793205,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "U024G883K1V",
@@ -3513,9 +3535,26 @@
             "skype": "",
             "real_name": "Tien Duy NGUYEN",
             "real_name_normalized": "Tien Duy NGUYEN",
-            "display_name": "Duy",
-            "display_name_normalized": "Duy",
-            "fields": null,
+            "display_name": "Z",
+            "display_name_normalized": "Z",
+            "fields": {
+                "XfRWQCRDNV": {
+                    "value": "Paris, France",
+                    "alt": ""
+                },
+                "Xf01C7RM3HK6": {
+                    "value": "Endless learning! :green_heart: :green_heart:",
+                    "alt": ""
+                },
+                "Xf03UYMVGZFF": {
+                    "value": "Backend Engineer (Node.js Team)",
+                    "alt": ""
+                },
+                "Xf03JWNR8YJE": {
+                    "value": "Call me z ud83dude09",
+                    "alt": ""
+                }
+            },
             "status_text": "",
             "status_emoji": ":rust:",
             "status_emoji_display_info": [
@@ -3525,8 +3564,8 @@
                 }
             ],
             "status_expiration": 0,
-            "avatar_hash": "895c26fcaeb7",
-            "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2023-12-19/6352524604535_895c26fcaeb7fd221d4f_original.png",
+            "avatar_hash": "80daa9ff8c72",
+            "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-05-03/7089445105824_80daa9ff8c72a5ee3312_original.jpg",
             "is_custom_image": true,
             "email": "tien-duy.nguyen@ekino.com",
             "huddle_state": "default_unset",
@@ -3543,9 +3582,10 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714482804,
+        "updated": 1714988542,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "UCXCST82C",
@@ -3592,6 +3632,49 @@
         "is_email_confirmed": true,
         "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
+    },
+    {
+        "id": "U0717CVRZGX",
+        "team_id": "T026JHDL4",
+        "name": "touyen.chau",
+        "deleted": false,
+        "color": "99a949",
+        "real_name": "To Uyen CHAU",
+        "tz": "Asia/Bangkok",
+        "tz_label": "Indochina Time",
+        "tz_offset": 25200,
+        "profile": {
+            "title": "HR Intern",
+            "phone": "",
+            "skype": "",
+            "real_name": "To Uyen CHAU",
+            "real_name_normalized": "To Uyen CHAU",
+            "display_name": "To Uyen CHAU",
+            "display_name_normalized": "To Uyen CHAU",
+            "fields": null,
+            "status_text": "",
+            "status_emoji": "",
+            "status_emoji_display_info": [],
+            "status_expiration": 0,
+            "avatar_hash": "420ff8775b0c",
+            "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-05-02/7053551558709_420ff8775b0c67643a3c_original.jpg",
+            "is_custom_image": true,
+            "email": "touyen.chau@ekino.com",
+            "first_name": "To",
+            "last_name": "Uyen CHAU",
+            "status_text_canonical": "",
+            "team": "T026JHDL4"
+        },
+        "is_admin": false,
+        "is_owner": false,
+        "is_primary_owner": false,
+        "is_restricted": false,
+        "is_ultra_restricted": false,
+        "is_bot": false,
+        "is_app_user": false,
+        "updated": 1714639049,
+        "is_email_confirmed": true,
+        "who_can_share_contact_card": "EVERYONE"
     },
     {
         "id": "U01R49M2BFX",
@@ -3680,9 +3763,10 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714376698,
+        "updated": 1714643049,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "U036VFB7RRQ",
@@ -3778,8 +3862,7 @@
         "is_app_user": false,
         "updated": 1702969452,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE",
-        "presence": "active"
+        "who_can_share_contact_card": "EVERYONE"
     },
     {
         "id": "U028M9WHKRA",
@@ -3799,12 +3882,7 @@
             "real_name_normalized": "Tru01b0u01a1ng Hoang Minh",
             "display_name": "Minh",
             "display_name_normalized": "Minh",
-            "fields": {
-                "Xf03UYMVGZFF": {
-                    "value": "Front-end Developer",
-                    "alt": ""
-                }
-            },
+            "fields": null,
             "status_text": "",
             "status_emoji": "",
             "status_emoji_display_info": [],
@@ -3814,7 +3892,7 @@
             "is_custom_image": true,
             "email": "hoang-minh.truong@ekino.com",
             "huddle_state": "default_unset",
-            "huddle_state_expiration_ts": 1714619403,
+            "huddle_state_expiration_ts": 1714705669,
             "first_name": "Tru01b0u01a1ng",
             "last_name": "Hou00e0ng Minh",
             "status_text_canonical": "",
@@ -3827,7 +3905,7 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1714619104,
+        "updated": 1714705369,
         "is_email_confirmed": true,
         "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
@@ -4053,9 +4131,10 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1712336348,
+        "updated": 1714640712,
         "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE"
+        "who_can_share_contact_card": "EVERYONE",
+        "presence": "active"
     },
     {
         "id": "U0165D4SS5T",
@@ -4113,16 +4192,6 @@
         "tz": "Asia/Bangkok",
         "tz_label": "Indochina Time",
         "tz_offset": 25200,
-        "is_admin": false,
-        "is_owner": false,
-        "is_primary_owner": false,
-        "is_restricted": false,
-        "is_ultra_restricted": false,
-        "is_bot": false,
-        "is_app_user": false,
-        "is_email_confirmed": true,
-        "who_can_share_contact_card": "EVERYONE",
-        "updated": 1714618444,
         "profile": {
             "title": "Front End Developer",
             "phone": "",
@@ -4132,6 +4201,10 @@
             "display_name": "Van Tam",
             "display_name_normalized": "Van Tam",
             "fields": null,
+            "status_text": "",
+            "status_emoji": "",
+            "status_emoji_display_info": [],
+            "status_expiration": 0,
             "avatar_hash": "2682b13e55c0",
             "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2024-03-09/6758972361623_2682b13e55c09220619d_original.png",
             "is_custom_image": true,
@@ -4140,13 +4213,19 @@
             "huddle_state_expiration_ts": 0,
             "first_name": "van-tam.u200btran",
             "last_name": "",
-            "team": "T026JHDL4",
-            "status_expiration": 0,
-            "status_emoji": "",
-            "status_text": "",
-            "status_emoji_display_info": [],
-            "status_text_canonical": ""
+            "status_text_canonical": "",
+            "team": "T026JHDL4"
         },
+        "is_admin": false,
+        "is_owner": false,
+        "is_primary_owner": false,
+        "is_restricted": false,
+        "is_ultra_restricted": false,
+        "is_bot": false,
+        "is_app_user": false,
+        "updated": 1714618444,
+        "is_email_confirmed": true,
+        "who_can_share_contact_card": "EVERYONE",
         "presence": "active"
     },
     {
@@ -4241,5 +4320,5 @@
         "is_email_confirmed": true,
         "who_can_share_contact_card": "TEAM_MEMBERS",
         "presence": "active"
-    },
+    }
 ]

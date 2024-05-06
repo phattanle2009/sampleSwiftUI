@@ -7,7 +7,7 @@
 
 import Foundation
 
-let sample2Data: [Sample2Model] = load("ekino.json")
+let sample2Data: [Sample2Model] = load("ekino_new.json")
 
 func load<T:Decodable>(_ filename: String, as type: T.Type = T.self) -> T {
     let data: Data
